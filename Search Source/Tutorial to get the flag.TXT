@@ -1,0 +1,5 @@
+1. buka index.html
+2. setelah dibuka klik kanan di sebuah halaman kosong kemudian klik 'View page source' (kalian juga bisa menggunakan inspect)
+3. ada beberapa bagian flag di dalam source code. anda bisa mencari dengan cara manual atau menggunakan CTRL+F bila telah menemukan kata kuncinya.
+4. gabungkan flag tersebut
+5. Selesai :) Selamat mencoba!!
